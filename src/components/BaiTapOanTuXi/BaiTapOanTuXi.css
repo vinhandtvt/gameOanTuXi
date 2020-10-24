@@ -1,0 +1,13 @@
+.gameOanTuXi {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-image: url('../../assets/bgGame.png');
+    background-size: 100%;
+    font-family: "fontGame";
+}
+
+@font-face {
+    font-family: 'fontGame';
+    src: url('../../assets/Pony.ttf');
+}
